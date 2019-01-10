@@ -6,7 +6,7 @@ public class juanchoControl : MonoBehaviour
 {
 //Debug.Log("Hello");
 	float speed = 3;
-	float gravity = 8;
+	float gravity = 80;
 
 	Vector3 moveDir = Vector3.zero;
 
